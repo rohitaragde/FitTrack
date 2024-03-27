@@ -64,7 +64,21 @@ We have followed the following steps in our data analysis:
 
 8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
-9. ## Results & Future Work
+![Visualization](images/visualize_01.png)
+
+![Visualization](images/visualize_02.png)
+
+![Visualization](images/visualize_03.png)
+
+![Visualization](images/visualize_05.png)
+
+![Visualization](images/visualize_06.png)
+
+![Visualization](images/visulize_07.png)
+
+
+
+10. ## Results & Future Work
 
 ### Identified Trends
 - Use of the FitBit app for tracking sedentary activities (81.3%) indicates a focus on monitoring daily routines rather than health-conscious behaviors.
