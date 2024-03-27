@@ -42,11 +42,18 @@ We have followed the following steps in our data analysis:
 
 4. **Feature Engineering:** Additional features were engineered to capture relevant information and improve the predictive power of our models.
 
-5. **Statistical & Data Analysis:** Statistical methods and data analysis techniques were applied to uncover correlations, trends, and significant findings in the data.
+5. **Statistical & Data Analysis:** 
+
+    - The dataset reveals that users, on average, logged approximately 6,547 steps per day.
+    - Sedentary behavior is prevalent, with users spending an average of 991 minutes per day in sedentary activities.
+    - Caloric expenditure averaged at 2,189 calories per day.
+    
+    These findings underscore the importance of promoting increased physical activity to enhance overall health and well-being.
 
 6. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
 7. **Results & Future Work:** Finally, we summarized the results of our analysis and outlined potential areas for future work, including further analysis, model refinement, or additional data collection.
+
 
 
 
