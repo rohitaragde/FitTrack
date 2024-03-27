@@ -9,6 +9,24 @@ This project aims to analyze data obtained from the Fitbit device of the user an
 - **Sleep and Activity Correlation Analysis:** Explore correlations between sleep patterns and activity levels.
 - **Activity Patterns on Weekdays vs. Weekends:** Compare activity patterns between weekdays and weekends.
 
+## Deliverables
+- **Comprehensive Analysis Report:** A detailed report summarizing the findings, insights, and correlations discovered during the analysis.
+- **Interactive Visualizations:** Interactive visualizations will be provided for stakeholder presentations, making it easier to communicate key insights.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Getting Started
+To get started with the project, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Run the main analysis script to perform data analysis.
+4. Explore the generated visualizations and analysis report.
+
 ## Data Acquisition
 The dataset used in this project was obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/singhakash/fitbit-dataset/data?select=FitBit+data.csv).
 The dataset contains a total of 457 observations and 18 features. These features include various metrics collected from the Fitbit device, such as steps taken, heart rate, sleep duration, and activity levels.
@@ -66,19 +84,25 @@ We have followed the following steps in our data analysis:
 
 ![Visualization](images/visualize_01.png)
 
+
 ![Visualization](images/visualize_02.png)
+
 
 ![Visualization](images/visualize_03.png)
 
+
 ![Visualization](images/visualize_05.png)
 
+
 ![Visualization](images/visualize_06.png)
+
 
 ![Visualization](images/visulize_07.png)
 
 
-
 10. ## Results & Future Work
+
+We processed FitBit data alongside sleep data to extract insights into activity levels, step counts, calorie counts, and sleep quality. Through comprehensive analysis, we identified trends such as user engagement patterns, focus on sedentary activities, and correlations between activity and sleep. This analysis serves as a foundation for future trend forecasting and deeper analysis, guiding potential enhancements to the FitBit app and related health products
 
 ### Identified Trends
 - Use of the FitBit app for tracking sedentary activities (81.3%) indicates a focus on monitoring daily routines rather than health-conscious behaviors.
@@ -96,33 +120,3 @@ We have followed the following steps in our data analysis:
 ### Future Work
 - The insights gathered from this analysis can be utilized for future machine learning models and data visualization efforts to uncover further correlations and patterns in the data.
 
-
-
-
-
-## Deliverables
-- **Comprehensive Analysis Report:** A detailed report summarizing the findings, insights, and correlations discovered during the analysis.
-- **Interactive Visualizations:** Interactive visualizations will be provided for stakeholder presentations, making it easier to communicate key insights.
-
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-## Getting Started
-To get started with the project, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the main analysis script to perform data analysis.
-4. Explore the generated visualizations and analysis report.
-
-## Contributing
-We welcome contributions from the community! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or inquiries, please contact [project@example.com](mailto:project@example.com).
