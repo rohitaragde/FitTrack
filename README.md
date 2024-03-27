@@ -52,7 +52,24 @@ We have followed the following steps in our data analysis:
 
 6. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
-7. **Results & Future Work:** Finally, we summarized the results of our analysis and outlined potential areas for future work, including further analysis, model refinement, or additional data collection.
+7. ## Results & Future Work
+
+### Identified Trends
+- Use of the FitBit app for tracking sedentary activities (81.3%) indicates a focus on monitoring daily routines rather than health-conscious behaviors.
+- Users display a clear inclination towards activity tracking during weekdays, suggesting a higher level of engagement during workdays compared to weekends.
+
+### Application to Health Products
+- These observed trends underscore the importance of developing health products that cater to users' daily routines and encourage consistent engagement throughout the week.
+
+### Sleep and Activity Correlation Analysis
+- Future work involves exploring the relationship between sleep patterns and physical activities, aiming to provide insights into the impact of exercise on sleep quality.
+
+### Activity Patterns on Weekdays vs. Weekends
+- Analyzing how physical activity varies between weekdays and weekends offers insights into work-life balance and its effects on health.
+
+### Future Work
+- The insights gathered from this analysis can be utilized for future machine learning models and data visualization efforts to uncover further correlations and patterns in the data.
+
 
 
 
