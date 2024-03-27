@@ -46,7 +46,11 @@ We have followed the following steps in our data analysis:
 
 4. **Feature Engineering:** Additional features were engineered to capture relevant information and improve the predictive power of our models.
 
-5. **Statistical & Data Analysis:** 
+   ![Feature Engineering](images/fe_1.png)
+
+   ![Feature Engineering](images/fe_2.png)
+
+6. **Statistical & Data Analysis:** 
 
     - The dataset reveals that users, on average, logged approximately 6,547 steps per day.
     - Sedentary behavior is prevalent, with users spending an average of 991 minutes per day in sedentary activities.
@@ -54,9 +58,11 @@ We have followed the following steps in our data analysis:
     
     These findings underscore the importance of promoting increased physical activity to enhance overall health and well-being.
 
-6. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
+   ![Duplicate Row Check](images/ditinct_duplicate_check.png)
 
-7. ## Results & Future Work
+8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
+
+9. ## Results & Future Work
 
 ### Identified Trends
 - Use of the FitBit app for tracking sedentary activities (81.3%) indicates a focus on monitoring daily routines rather than health-conscious behaviors.
