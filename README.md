@@ -27,12 +27,3 @@ To get started with the project, follow these steps:
 3. Run the main analysis script to perform data analysis.
 4. Explore the generated visualizations and analysis report.
 
-## Contributing
-We welcome contributions from the community! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or inquiries, please contact [project@example.com](mailto:project@example.com).
-
