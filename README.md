@@ -21,7 +21,24 @@ The dataset contains a total of 457 observations and 18 features. These features
 Before conducting the analysis, the dataset undergoes preprocessing steps to clean, transform, and prepare the data for analysis. This includes handling missing values, standardizing data types, and any necessary feature engineering.
 
 ## Data Analysis
-The main focus of this project is on data analysis to derive insights and patterns from the Fitbit data. Analysis techniques such as statistical analysis, visualization, and machine learning may be employed to extract meaningful information from the data.
+
+We have followed the following steps in our data analysis:
+
+1. **Data Extraction:** We extracted the Fitbit data from the provided dataset.
+
+2. **Data Cleaning and Preprocessing:** The dataset underwent cleaning and preprocessing steps to handle missing values, remove duplicates, and standardize data types.
+
+3. **Exploratory Data Analysis (EDA):** We conducted exploratory data analysis to gain insights into the distribution, relationships, and patterns within the data.
+
+4. **Feature Engineering:** Additional features were engineered to capture relevant information and improve the predictive power of our models.
+
+5. **Statistical & Data Analysis:** Statistical methods and data analysis techniques were applied to uncover correlations, trends, and significant findings in the data.
+
+6. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
+
+7. **Results & Future Work:** Finally, we summarized the results of our analysis and outlined potential areas for future work, including further analysis, model refinement, or additional data collection.
+
+
 
 ## Deliverables
 - **Comprehensive Analysis Report:** A detailed report summarizing the findings, insights, and correlations discovered during the analysis.
