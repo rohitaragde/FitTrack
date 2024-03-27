@@ -66,7 +66,7 @@ We have followed the following steps in our data analysis:
 
    ![Feature Engineering](images/fe_1.png)
 
-6. **Statistical & Data Analysis:** 
+5. **Statistical & Data Analysis:** 
 
     - The dataset reveals that users, on average, logged approximately 6,547 steps per day.
     - Sedentary behavior is prevalent, with users spending an average of 991 minutes per day in sedentary activities.
@@ -80,9 +80,7 @@ We have followed the following steps in our data analysis:
 
    ![Data Analysis](images/handfitness_02.png)
 
-8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
-
-9. ### Visualizations
+6. ### **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
    **Insights from Number of times user logged in app across the week:**
 
@@ -109,7 +107,7 @@ We have followed the following steps in our data analysis:
    ![Visualization](images/visulize_07.png)
 
 
-10. ## Results & Future Work
+7. ## Results & Future Work
 
 We processed FitBit data alongside sleep data to extract insights into activity levels, step counts, calorie counts, and sleep quality. Through comprehensive analysis, we identified trends such as user engagement patterns, focus on sedentary activities, and correlations between activity and sleep. This analysis serves as a foundation for future trend forecasting and deeper analysis, guiding potential enhancements to the FitBit app and related health products
 
