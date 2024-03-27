@@ -13,6 +13,10 @@ This project aims to analyze data obtained from the Fitbit device of the user an
 The dataset used in this project was obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/singhakash/fitbit-dataset/data?select=FitBit+data.csv).
 The dataset contains a total of 457 observations and 18 features. These features include various metrics collected from the Fitbit device, such as steps taken, heart rate, sleep duration, and activity levels.
 
+![Fitbit Dataset Snapshot](images/01.png)
+
+
+
 ## Data Preprocessing
 Before conducting the analysis, the dataset undergoes preprocessing steps to clean, transform, and prepare the data for analysis. This includes handling missing values, standardizing data types, and any necessary feature engineering.
 
