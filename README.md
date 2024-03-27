@@ -1,1 +1,1 @@
-## FitTrack: Comprehensive Health and Fitness Analysis Using Fitbit Data
+# Comprehensive Health and Fitness Analysis Using Fitbit Data
