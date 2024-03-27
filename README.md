@@ -58,6 +58,10 @@ We have followed the following steps in our data analysis:
 
    ![Stats Analysis](images/stats-analysis_1.png)
 
+   ![Data Analysis](images/handfitness_01.png)
+
+   ![Data Analysis](images/handfitness_02.png)
+
 8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
 9. ## Results & Future Work
