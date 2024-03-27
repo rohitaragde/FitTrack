@@ -31,7 +31,7 @@ We first analyzed if there were any missing or NULL values. Here are our observa
 ### Duplicate Row Check
 We conducted a check for duplicate rows in the dataset to ensure data integrity and consistency.
 
-![Duplicate Row Check](images/ditict_duplicate_check.png)
+![Duplicate Row Check](images/ditinct_duplicate_check.png)
 
 
 ## Data Analysis
