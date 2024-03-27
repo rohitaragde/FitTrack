@@ -15,10 +15,20 @@ The dataset contains a total of 457 observations and 18 features. These features
 
 ![Fitbit Dataset Snapshot](images/01.png)
 
+## Data Cleaning and Preprocessing
 
+During the data cleaning and preprocessing phase, we performed the following steps:
 
-## Data Preprocessing
-Before conducting the analysis, the dataset undergoes preprocessing steps to clean, transform, and prepare the data for analysis. This includes handling missing values, standardizing data types, and any necessary feature engineering.
+### Missing Values
+We first analyzed if there were any missing or NULL values. Here are our observations:
+- The data consists of 18 columns and 457 rows.
+- There are no Null or missing values.
+- The column 'ActivityDate' was wrongly classified and needed to be converted to datetime64 dtype.
+- There are 33 distinct IDs in the dataset.
+
+### Duplicate Row Check
+We conducted a check for duplicate rows in the dataset to ensure data integrity and consistency.
+
 
 ## Data Analysis
 
