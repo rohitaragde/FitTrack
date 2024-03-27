@@ -82,7 +82,9 @@ We have followed the following steps in our data analysis:
 
 8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
-![Visualization](images/visualize_01.png)
+   **Insights from Number of times user logged in app across the week:**
+
+   ![Visualization](images/visualize_01.png)
 
 
 ![Visualization](images/visualize_02.png)
