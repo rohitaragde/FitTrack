@@ -3,16 +3,6 @@
 ## Overview
 This project aims to analyze data obtained from the Fitbit device of the user and provide valuable insights, correlations, and trends. By analyzing various aspects of health and fitness data, we seek to understand lifestyle impacts, sleep patterns, activity trends, and more.
 
-## Team Members:-
-
-**Rohit Annasaheb Ragde**
-
-**Disha Yadav**
-
-**Evan Velagaleti**
-
-**Geeta Kukreja**
-
 ## Project Objectives
 - **Data Analysis for Health and Fitness Trends:** Analyze Fitbit data to identify trends related to health and fitness.
 - **Lifestyle Impact Study:** Study the impact of lifestyle choices on health and fitness metrics.
