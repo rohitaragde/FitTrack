@@ -82,24 +82,31 @@ We have followed the following steps in our data analysis:
 
 8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
+9. ### Visualizations
+
    **Insights from Number of times user logged in app across the week:**
 
    ![Visualization](images/visualize_01.png)
 
+   **Insights from Distribution of Total Steps:**
+   
+   ![Visualization](images/visualize_02.png)
+   
+   **Insights from Calories burned per step taken:**
+   
+   ![Visualization](images/visualize_03.png)
 
-![Visualization](images/visualize_02.png)
+   **Insights from Activity average weekdays vs weekends in minutes:**
+   
+   ![Visualization](images/visualize_05.png)
+   
+   **Insights from Percentage of activity in minutes:**
+   
+   ![Visualization](images/visualize_06.png)
 
-
-![Visualization](images/visualize_03.png)
-
-
-![Visualization](images/visualize_05.png)
-
-
-![Visualization](images/visualize_06.png)
-
-
-![Visualization](images/visulize_07.png)
+   **Insights from Sleep Quality duration by day of the week:**
+   
+   ![Visualization](images/visulize_07.png)
 
 
 10. ## Results & Future Work
