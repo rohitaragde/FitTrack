@@ -48,8 +48,6 @@ We have followed the following steps in our data analysis:
 
    ![Feature Engineering](images/fe_1.png)
 
-   ![Feature Engineering](images/fe_2.png)
-
 6. **Statistical & Data Analysis:** 
 
     - The dataset reveals that users, on average, logged approximately 6,547 steps per day.
