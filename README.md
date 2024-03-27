@@ -56,7 +56,7 @@ We have followed the following steps in our data analysis:
     
     These findings underscore the importance of promoting increased physical activity to enhance overall health and well-being.
 
-   ![Duplicate Row Check](images/ditinct_duplicate_check.png)
+   ![Stats Analysis](images/stats-analysis_1.png)
 
 8. **Visualizations:** Visualizations such as histograms, scatter plots, and heatmaps were created to visualize the patterns and relationships discovered during analysis.
 
