@@ -26,8 +26,12 @@ We first analyzed if there were any missing or NULL values. Here are our observa
 - The column 'ActivityDate' was wrongly classified and needed to be converted to datetime64 dtype.
 - There are 33 distinct IDs in the dataset.
 
+  ![Missing Values](images/01.png)
+
 ### Duplicate Row Check
 We conducted a check for duplicate rows in the dataset to ensure data integrity and consistency.
+
+![Duplicate Row Check](images/distict_duplicate_check.png)
 
 
 ## Data Analysis
